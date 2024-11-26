@@ -1,0 +1,79 @@
+C:\Users\Lautaro Vagnoni\COdecademy\GestionCatalogo\GestionCatalogo\bin\Debug\GestionCatalogo.exe.config
+C:\Users\Lautaro Vagnoni\COdecademy\GestionCatalogo\GestionCatalogo\bin\Debug\GestionCatalogo.exe
+C:\Users\Lautaro Vagnoni\COdecademy\GestionCatalogo\GestionCatalogo\bin\Debug\GestionCatalogo.pdb
+C:\Users\Lautaro Vagnoni\COdecademy\GestionCatalogo\GestionCatalogo\obj\Debug\GestionCatalogo.csproj.AssemblyReference.cache
+C:\Users\Lautaro Vagnoni\COdecademy\GestionCatalogo\GestionCatalogo\obj\Debug\GestionCatalogo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lautaro Vagnoni\COdecademy\GestionCatalogo\GestionCatalogo\obj\Debug\GestionCatalogo.Form1.resources
+C:\Users\Lautaro Vagnoni\COdecademy\GestionCatalogo\GestionCatalogo\obj\Debug\GestionCatalogo.Properties.Resources.resources
+C:\Users\Lautaro Vagnoni\COdecademy\GestionCatalogo\GestionCatalogo\obj\Debug\GestionCatalogo.csproj.GenerateResource.cache
+C:\Users\Lautaro Vagnoni\COdecademy\GestionCatalogo\GestionCatalogo\obj\Debug\GestionCatalogo.csproj.CoreCompileInputs.cache
+C:\Users\Lautaro Vagnoni\COdecademy\GestionCatalogo\GestionCatalogo\obj\Debug\GestionCatalogo.exe
+C:\Users\Lautaro Vagnoni\COdecademy\GestionCatalogo\GestionCatalogo\obj\Debug\GestionCatalogo.pdb
+C:\Users\Lautaro Vagnoni\COdecademy\GestionCatalogo\GestionCatalogo\obj\Debug\GestionCatalogo.formAlta.resources
+C:\Users\Lautaro Vagnoni\cac\Prog3-Forms4C\GestionCatalogo\obj\Debug\GestionCatalogo.csproj.AssemblyReference.cache
+C:\Users\Lautaro Vagnoni\cac\Prog3-Forms4C\GestionCatalogo\obj\Debug\GestionCatalogo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lautaro Vagnoni\cac\Prog3-Forms4C\GestionCatalogo\obj\Debug\GestionCatalogo.Form1.resources
+C:\Users\Lautaro Vagnoni\cac\Prog3-Forms4C\GestionCatalogo\obj\Debug\GestionCatalogo.formAlta.resources
+C:\Users\Lautaro Vagnoni\cac\Prog3-Forms4C\GestionCatalogo\obj\Debug\GestionCatalogo.Properties.Resources.resources
+C:\Users\Lautaro Vagnoni\cac\Prog3-Forms4C\GestionCatalogo\obj\Debug\GestionCatalogo.csproj.GenerateResource.cache
+C:\Users\Lautaro Vagnoni\cac\Prog3-Forms4C\GestionCatalogo\obj\Debug\GestionCatalogo.csproj.CoreCompileInputs.cache
+C:\Users\Lautaro Vagnoni\cac\Prog3-Forms4C\GestionCatalogo\obj\Debug\GestionCatalogo.exe
+C:\Users\Lautaro Vagnoni\cac\Prog3-Forms4C\GestionCatalogo\obj\Debug\GestionCatalogo.pdb
+C:\Users\Lautaro Vagnoni\cac\Prog3-Forms4C\GestionCatalogo\bin\Debug\GestionCatalogo.exe.config
+C:\Users\Lautaro Vagnoni\cac\Prog3-Forms4C\GestionCatalogo\bin\Debug\GestionCatalogo.exe
+C:\Users\Lautaro Vagnoni\cac\Prog3-Forms4C\GestionCatalogo\bin\Debug\GestionCatalogo.pdb
+C:\Users\Lautaro Vagnoni\cac\Prog3-Forms4C\GestionCatalogo\bin\Debug\Dominio.dll
+C:\Users\Lautaro Vagnoni\cac\Prog3-Forms4C\GestionCatalogo\bin\Debug\Negocio.dll
+C:\Users\Lautaro Vagnoni\cac\Prog3-Forms4C\GestionCatalogo\bin\Debug\Dominio.pdb
+C:\Users\Lautaro Vagnoni\cac\Prog3-Forms4C\GestionCatalogo\bin\Debug\Negocio.pdb
+C:\Users\Lautaro Vagnoni\cac\Prog3-Forms4C\GestionCatalogo\obj\Debug\GestionCatalogo.csproj.CopyComplete
+C:\Users\poky1975\Documents\GitHub\Prog3-Forms4C\GestionCatalogo\bin\Debug\GestionCatalogo.exe.config
+C:\Users\poky1975\Documents\GitHub\Prog3-Forms4C\GestionCatalogo\bin\Debug\GestionCatalogo.exe
+C:\Users\poky1975\Documents\GitHub\Prog3-Forms4C\GestionCatalogo\bin\Debug\GestionCatalogo.pdb
+C:\Users\poky1975\Documents\GitHub\Prog3-Forms4C\GestionCatalogo\bin\Debug\Dominio.dll
+C:\Users\poky1975\Documents\GitHub\Prog3-Forms4C\GestionCatalogo\bin\Debug\Negocio.dll
+C:\Users\poky1975\Documents\GitHub\Prog3-Forms4C\GestionCatalogo\bin\Debug\Dominio.pdb
+C:\Users\poky1975\Documents\GitHub\Prog3-Forms4C\GestionCatalogo\bin\Debug\Negocio.pdb
+C:\Users\poky1975\Documents\GitHub\Prog3-Forms4C\GestionCatalogo\obj\Debug\GestionCatalogo.csproj.AssemblyReference.cache
+C:\Users\poky1975\Documents\GitHub\Prog3-Forms4C\GestionCatalogo\obj\Debug\GestionCatalogo.Form1.resources
+C:\Users\poky1975\Documents\GitHub\Prog3-Forms4C\GestionCatalogo\obj\Debug\GestionCatalogo.formAlta.resources
+C:\Users\poky1975\Documents\GitHub\Prog3-Forms4C\GestionCatalogo\obj\Debug\GestionCatalogo.Properties.Resources.resources
+C:\Users\poky1975\Documents\GitHub\Prog3-Forms4C\GestionCatalogo\obj\Debug\GestionCatalogo.csproj.GenerateResource.cache
+C:\Users\poky1975\Documents\GitHub\Prog3-Forms4C\GestionCatalogo\obj\Debug\GestionCatalogo.csproj.CoreCompileInputs.cache
+C:\Users\poky1975\Documents\GitHub\Prog3-Forms4C\GestionCatalogo\obj\Debug\GestionC.70154128.Up2Date
+C:\Users\poky1975\Documents\GitHub\Prog3-Forms4C\GestionCatalogo\obj\Debug\GestionCatalogo.exe
+C:\Users\poky1975\Documents\GitHub\Prog3-Forms4C\GestionCatalogo\obj\Debug\GestionCatalogo.pdb
+C:\Users\Usuario\Downloads\tp_winforms_prog3\tp_winforms_prog3\GestionCatalogo\bin\Debug\GestionCatalogo.exe.config
+C:\Users\Usuario\Downloads\tp_winforms_prog3\tp_winforms_prog3\GestionCatalogo\bin\Debug\GestionCatalogo.exe
+C:\Users\Usuario\Downloads\tp_winforms_prog3\tp_winforms_prog3\GestionCatalogo\bin\Debug\GestionCatalogo.pdb
+C:\Users\Usuario\Downloads\tp_winforms_prog3\tp_winforms_prog3\GestionCatalogo\bin\Debug\Dominio.dll
+C:\Users\Usuario\Downloads\tp_winforms_prog3\tp_winforms_prog3\GestionCatalogo\bin\Debug\Negocio.dll
+C:\Users\Usuario\Downloads\tp_winforms_prog3\tp_winforms_prog3\GestionCatalogo\bin\Debug\Dominio.pdb
+C:\Users\Usuario\Downloads\tp_winforms_prog3\tp_winforms_prog3\GestionCatalogo\bin\Debug\Negocio.pdb
+C:\Users\Usuario\Downloads\tp_winforms_prog3\tp_winforms_prog3\GestionCatalogo\obj\Debug\GestionCatalogo.csproj.AssemblyReference.cache
+C:\Users\Usuario\Downloads\tp_winforms_prog3\tp_winforms_prog3\GestionCatalogo\obj\Debug\GestionCatalogo.Form1.resources
+C:\Users\Usuario\Downloads\tp_winforms_prog3\tp_winforms_prog3\GestionCatalogo\obj\Debug\GestionCatalogo.formAlta.resources
+C:\Users\Usuario\Downloads\tp_winforms_prog3\tp_winforms_prog3\GestionCatalogo\obj\Debug\GestionCatalogo.Properties.Resources.resources
+C:\Users\Usuario\Downloads\tp_winforms_prog3\tp_winforms_prog3\GestionCatalogo\obj\Debug\GestionCatalogo.csproj.GenerateResource.cache
+C:\Users\Usuario\Downloads\tp_winforms_prog3\tp_winforms_prog3\GestionCatalogo\obj\Debug\GestionCatalogo.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\tp_winforms_prog3\tp_winforms_prog3\GestionCatalogo\obj\Debug\GestionC.70154128.Up2Date
+C:\Users\Usuario\Downloads\tp_winforms_prog3\tp_winforms_prog3\GestionCatalogo\obj\Debug\GestionCatalogo.exe
+C:\Users\Usuario\Downloads\tp_winforms_prog3\tp_winforms_prog3\GestionCatalogo\obj\Debug\GestionCatalogo.pdb
+C:\Users\Usuario\Downloads\tp_winforms_prog3\tp_winforms_prog3\GestionCatalogo\obj\Debug\GestionCatalogo.FormDetalle.resources
+C:\Users\poky1975\Desktop\tp_winforms_prog3\GestionCatalogo\bin\Debug\GestionCatalogo.exe.config
+C:\Users\poky1975\Desktop\tp_winforms_prog3\GestionCatalogo\bin\Debug\GestionCatalogo.exe
+C:\Users\poky1975\Desktop\tp_winforms_prog3\GestionCatalogo\bin\Debug\GestionCatalogo.pdb
+C:\Users\poky1975\Desktop\tp_winforms_prog3\GestionCatalogo\bin\Debug\Dominio.dll
+C:\Users\poky1975\Desktop\tp_winforms_prog3\GestionCatalogo\bin\Debug\Negocio.dll
+C:\Users\poky1975\Desktop\tp_winforms_prog3\GestionCatalogo\bin\Debug\Dominio.pdb
+C:\Users\poky1975\Desktop\tp_winforms_prog3\GestionCatalogo\bin\Debug\Negocio.pdb
+C:\Users\poky1975\Desktop\tp_winforms_prog3\GestionCatalogo\obj\Debug\GestionCatalogo.csproj.AssemblyReference.cache
+C:\Users\poky1975\Desktop\tp_winforms_prog3\GestionCatalogo\obj\Debug\GestionCatalogo.Form1.resources
+C:\Users\poky1975\Desktop\tp_winforms_prog3\GestionCatalogo\obj\Debug\GestionCatalogo.formAlta.resources
+C:\Users\poky1975\Desktop\tp_winforms_prog3\GestionCatalogo\obj\Debug\GestionCatalogo.FormDetalle.resources
+C:\Users\poky1975\Desktop\tp_winforms_prog3\GestionCatalogo\obj\Debug\GestionCatalogo.Properties.Resources.resources
+C:\Users\poky1975\Desktop\tp_winforms_prog3\GestionCatalogo\obj\Debug\GestionCatalogo.csproj.GenerateResource.cache
+C:\Users\poky1975\Desktop\tp_winforms_prog3\GestionCatalogo\obj\Debug\GestionCatalogo.csproj.CoreCompileInputs.cache
+C:\Users\poky1975\Desktop\tp_winforms_prog3\GestionCatalogo\obj\Debug\GestionC.70154128.Up2Date
+C:\Users\poky1975\Desktop\tp_winforms_prog3\GestionCatalogo\obj\Debug\GestionCatalogo.exe
+C:\Users\poky1975\Desktop\tp_winforms_prog3\GestionCatalogo\obj\Debug\GestionCatalogo.pdb

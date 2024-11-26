@@ -1,0 +1,38 @@
+C:\Users\Lautaro Vagnoni\COdecademy\GestionCatalogo\Negocio\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\Lautaro Vagnoni\COdecademy\GestionCatalogo\Negocio\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Lautaro Vagnoni\cac\Prog3-Forms4C\Negocio\Negocio\bin\Debug\Negocio.dll
+C:\Users\Lautaro Vagnoni\cac\Prog3-Forms4C\Negocio\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Lautaro Vagnoni\cac\Prog3-Forms4C\Negocio\Negocio\bin\Debug\Dominio.dll
+C:\Users\Lautaro Vagnoni\cac\Prog3-Forms4C\Negocio\Negocio\bin\Debug\Dominio.pdb
+C:\Users\Lautaro Vagnoni\cac\Prog3-Forms4C\Negocio\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\Lautaro Vagnoni\cac\Prog3-Forms4C\Negocio\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Lautaro Vagnoni\cac\Prog3-Forms4C\Negocio\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\Lautaro Vagnoni\cac\Prog3-Forms4C\Negocio\Negocio\obj\Debug\Negocio.dll
+C:\Users\Lautaro Vagnoni\cac\Prog3-Forms4C\Negocio\Negocio\obj\Debug\Negocio.pdb
+C:\Users\poky1975\Documents\GitHub\Prog3-Forms4C\Negocio\Negocio\bin\Debug\Negocio.dll
+C:\Users\poky1975\Documents\GitHub\Prog3-Forms4C\Negocio\Negocio\bin\Debug\Negocio.pdb
+C:\Users\poky1975\Documents\GitHub\Prog3-Forms4C\Negocio\Negocio\bin\Debug\Dominio.dll
+C:\Users\poky1975\Documents\GitHub\Prog3-Forms4C\Negocio\Negocio\bin\Debug\Dominio.pdb
+C:\Users\poky1975\Documents\GitHub\Prog3-Forms4C\Negocio\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\poky1975\Documents\GitHub\Prog3-Forms4C\Negocio\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\poky1975\Documents\GitHub\Prog3-Forms4C\Negocio\Negocio\obj\Debug\Negocio.csproj.Up2Date
+C:\Users\poky1975\Documents\GitHub\Prog3-Forms4C\Negocio\Negocio\obj\Debug\Negocio.dll
+C:\Users\poky1975\Documents\GitHub\Prog3-Forms4C\Negocio\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Usuario\Downloads\tp_winforms_prog3\tp_winforms_prog3\Negocio\Negocio\bin\Debug\Negocio.dll
+C:\Users\Usuario\Downloads\tp_winforms_prog3\tp_winforms_prog3\Negocio\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Usuario\Downloads\tp_winforms_prog3\tp_winforms_prog3\Negocio\Negocio\bin\Debug\Dominio.dll
+C:\Users\Usuario\Downloads\tp_winforms_prog3\tp_winforms_prog3\Negocio\Negocio\bin\Debug\Dominio.pdb
+C:\Users\Usuario\Downloads\tp_winforms_prog3\tp_winforms_prog3\Negocio\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\Usuario\Downloads\tp_winforms_prog3\tp_winforms_prog3\Negocio\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\tp_winforms_prog3\tp_winforms_prog3\Negocio\Negocio\obj\Debug\Negocio.csproj.Up2Date
+C:\Users\Usuario\Downloads\tp_winforms_prog3\tp_winforms_prog3\Negocio\Negocio\obj\Debug\Negocio.dll
+C:\Users\Usuario\Downloads\tp_winforms_prog3\tp_winforms_prog3\Negocio\Negocio\obj\Debug\Negocio.pdb
+C:\Users\poky1975\Desktop\tp_winforms_prog3\Negocio\Negocio\bin\Debug\Negocio.dll
+C:\Users\poky1975\Desktop\tp_winforms_prog3\Negocio\Negocio\bin\Debug\Negocio.pdb
+C:\Users\poky1975\Desktop\tp_winforms_prog3\Negocio\Negocio\bin\Debug\Dominio.dll
+C:\Users\poky1975\Desktop\tp_winforms_prog3\Negocio\Negocio\bin\Debug\Dominio.pdb
+C:\Users\poky1975\Desktop\tp_winforms_prog3\Negocio\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\poky1975\Desktop\tp_winforms_prog3\Negocio\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\poky1975\Desktop\tp_winforms_prog3\Negocio\Negocio\obj\Debug\Negocio.csproj.Up2Date
+C:\Users\poky1975\Desktop\tp_winforms_prog3\Negocio\Negocio\obj\Debug\Negocio.dll
+C:\Users\poky1975\Desktop\tp_winforms_prog3\Negocio\Negocio\obj\Debug\Negocio.pdb
